@@ -28,13 +28,13 @@ If you are interested in getting started with generative AI, there are a few thi
 
 Learn about the basics of machine learning. Generative AI is a type of machine learning, so it is important to have a basic understanding of machine learning concepts such as supervised learning, unsupervised learning, and reinforcement learning.
 
-Find a good generative AI framework. There are a number of different generative AI frameworks available, such as TensorFlow, PyTorch, and JAX. Choose a framework that is well-suited for your specific needs and experience level.
+* Find a good generative AI framework. There are a number of different generative AI frameworks available, such as TensorFlow, PyTorch, and JAX. Choose a framework that is well-suited for your specific needs and experience level.
 
-Find a good dataset. Generative AI algorithms are trained on data, so you will need to find a good dataset that is relevant to the type of content you want to generate.
+* Find a good dataset. Generative AI algorithms are trained on data, so you will need to find a good dataset that is relevant to the type of content you want to generate.
 
-Train a generative AI model. Once you have chosen a framework and dataset, you can start training a generative AI model. This process can take some time, depending on the size and complexity of your dataset.
+* Train a generative AI model. Once you have chosen a framework and dataset, you can start training a generative AI model. This process can take some time, depending on the size and complexity of your dataset.
 
-Generate content! Once your model is trained, you can start generating content with it. Simply provide the model with a prompt or input, and it will generate new content based on its training data.
+* Generate content! Once your model is trained, you can start generating content with it. Simply provide the model with a prompt or input, and it will generate new content based on its training data.
 
 Conclusion:
 
